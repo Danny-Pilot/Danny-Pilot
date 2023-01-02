@@ -2,6 +2,9 @@
 
 ## I'm QA Engeneer (manual+auto)
 
-Languages and Tools
+### Languages and Tools
+![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
+![Charles](https://img.shields.io/badge/-Charles-000010?style=for-the-badge&logo=charles)
+
 
 Follow Me
