@@ -2,8 +2,9 @@
 
 ## I'm QA Engeneer (manual+auto)
 
-### Tools Skils
+### Tools
 [![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
+[![Xcode](https://img.shields.io/badge/-Xcode-000010?style=for-the-badge&logo=Xcode)](https://developer.apple.com/xcode)
 [![Charles](https://img.shields.io/badge/-Charlesproxy-000010?style=for-the-badge&logo)](https://www.charlesproxy.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000010?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![Metabase](https://img.shields.io/badge/-Metabase-000010?style=for-the-badge&logo=metabase)](https://www.metabase.com/)
