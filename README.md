@@ -3,15 +3,15 @@
 ## I'm QA Engeneer (manual+auto)
 
 ### Tools Skils
-![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
-![Charles](https://img.shields.io/badge/-Charlesproxy-000010?style=for-the-badge&logo)
-![MySQL](https://img.shields.io/badge/-MySQL-000010?style=for-the-badge&logo=MySQL)
-![Metabase](https://img.shields.io/badge/-Metabase-000010?style=for-the-badge&logo=metabase)
-![Jira](https://img.shields.io/badge/-Jira-000010?style=for-the-badge&logo=Jira&logoColor=1E90FF)
-![Github](https://img.shields.io/badge/-Github-000010?style=for-the-badge&logo=github)
+[![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
+[![Charles](https://img.shields.io/badge/-Charlesproxy-000010?style=for-the-badge&logo)](https://www.charlesproxy.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-000010?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
+[![Metabase](https://img.shields.io/badge/-Metabase-000010?style=for-the-badge&logo=metabase)](https://www.metabase.com/)
+[![Jira](https://img.shields.io/badge/-Jira-000010?style=for-the-badge&logo=Jira&logoColor=1E90FF)](https://www.atlassian.com/ru/software/jira)
+[![Github](https://img.shields.io/badge/-Github-000010?style=for-the-badge&logo=github)](https://github.com/)
 ![Devtools](https://img.shields.io/badge/-Devtools-000010?style=for-the-badge&logo=Devtools)
-![AndroidStidio](https://img.shields.io/badge/-Android_studio-000010?style=for-the-badge&logo=Androidstudio)
-![Fiddler](https://img.shields.io/badge/-Fiddler-000010?style=for-the-badge&logo=Fiddler)
+[![AndroidStidio](https://img.shields.io/badge/-Android_studio-000010?style=for-the-badge&logo=Androidstudio)](https://developer.android.com/studio)
+[![Fiddler](https://img.shields.io/badge/-Fiddler-000010?style=for-the-badge&logo=Fiddler)](https://www.telerik.com/fiddler)
 ![SoupIU](https://img.shields.io/badge/-SoupUI-000010?style=for-the-badge&logo=SoupUI)
 
  ### Skils
