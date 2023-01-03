@@ -24,6 +24,7 @@
 ![Интеграционное](https://img.shields.io/badge/-Интеграционное_тестирование-000010?style=for-the-badge&logo)
 ![Rest](https://img.shields.io/badge/-Rest-000010?style=for-the-badge&logo)
 ![JSON_API](https://img.shields.io/badge/-JSON_API-000010?style=for-the-badge&logo)
-![Agile](https://img.shields.io/badge/-Agile-000010?style=for-the-badge&logo=Agile)
+[![Agile](https://img.shields.io/badge/-Agile-000010?style=for-the-badge&logo=Agile)](https://agilemanifesto.org/)
 
-Follow Me
+## Follow Me
+[![VK](https://img.shields.io/badge/-VK.Com-000010?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://vk.com/jilytb)
