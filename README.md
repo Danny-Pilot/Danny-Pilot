@@ -29,4 +29,4 @@
 ## Follow Me
 [![VK](https://img.shields.io/badge/-VK.Com-000010?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://vk.com/jilytb)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Pilot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Pilot&show_icons=true)
