@@ -1,4 +1,4 @@
-![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
+[![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 
 ## I'm QA Engeneer (manual+auto)
 
@@ -15,7 +15,7 @@
 ![SoupIU](https://img.shields.io/badge/-SoupUI-000010?style=for-the-badge&logo=SoupUI)
 
  ### Skils
-[![Обучаесоть](https://img.shields.io/badge/-Обучаемость-000010?style=for-the-badge&logo)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
+![Обучаесоть](https://img.shields.io/badge/-Обучаемость-000010?style=for-the-badge&logo)
 ![РаботавКоманде](https://img.shields.io/badge/-Работа_в_команде-000010?style=for-the-badge&logo)
 ![WBT](https://img.shields.io/badge/-WhiteBoxTesting-000010?style=for-the-badge&logo=whitebox)
 ![BBT](https://img.shields.io/badge/-BlackBoxTesting-000010?style=for-the-badge&logo=whitebox)
@@ -28,3 +28,5 @@
 
 ## Follow Me
 [![VK](https://img.shields.io/badge/-VK.Com-000010?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://vk.com/jilytb)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Pilot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
