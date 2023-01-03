@@ -15,7 +15,7 @@
 ![SoupIU](https://img.shields.io/badge/-SoupUI-000010?style=for-the-badge&logo=SoupUI)
 
  ### Skils
-![Обучаесоть](https://img.shields.io/badge/-Обучаемость-000010?style=for-the-badge&logo)
+[![Обучаесоть](https://img.shields.io/badge/-Обучаемость-000010?style=for-the-badge&logo)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 ![РаботавКоманде](https://img.shields.io/badge/-Работа_в_команде-000010?style=for-the-badge&logo)
 ![WBT](https://img.shields.io/badge/-WhiteBoxTesting-000010?style=for-the-badge&logo=whitebox)
 ![BBT](https://img.shields.io/badge/-BlackBoxTesting-000010?style=for-the-badge&logo=whitebox)
