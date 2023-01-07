@@ -1,3 +1,5 @@
+# Hey there. I'm 
+
 [![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 
 ## I'm QA Engeneer (manual+auto)
@@ -6,15 +8,13 @@
 - В тестировании с 2020 года;
 - Актуализировал 300+ тест-кейсов;
 - Умею пилотировать самолёт; :airplane:
-- Обожаю музыку, кино и Stand up; :musical_note
+- Обожаю музыку, кино и Stand up; :musical_note:
 - Занимаюсь боксом с тренером;
 - За 2022 прочитал 18 книг;
 - Собираю кубик Рубика за 1 минуту;
 - Катаю на горных лыжах . :skier:
 
 Мое кредо: Ученье – свет, а не ученье – тьма!
-
-
 
 ### :hammer_and_wrench: Tools
 [![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
