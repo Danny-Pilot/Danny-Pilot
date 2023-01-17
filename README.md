@@ -12,6 +12,7 @@
 - Умею пилотировать самолёт; :airplane:
 - Обожаю музыку, кино и Stand UP; :musical_note:
 - Занимаюсь боксом с тренером;
+- Пишу статьи на habr;
 - За 2022 прочитал 18 книг;
 - Собираю кубик Рубика за 1 минуту;
 - Катаю на горных лыжах . :skier:
@@ -51,5 +52,6 @@
 ## Follow Me
 [![VK](https://img.shields.io/badge/-VK.Com-000010?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://vk.com/jilytb)
 [![Instagram](https://img.shields.io/badge/-Instagram-000010?style=for-the-badge&logo=instagram)](https://instagram.com/nv_danya)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-pilot&theme=radical&show_icons=true)
