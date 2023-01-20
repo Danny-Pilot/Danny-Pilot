@@ -19,6 +19,9 @@
 
 Мое кредо: Ученье – свет, а не ученье – тьма!
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quote=The_best&=dark)
+
+
 ### :hammer_and_wrench: Tools
 [![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
 [![Charles](https://img.shields.io/badge/-Charlesproxy-000010?style=for-the-badge&logo)](https://www.charlesproxy.com/)
