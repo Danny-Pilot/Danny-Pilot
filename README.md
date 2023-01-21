@@ -5,6 +5,7 @@
 
 [![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 
+<div style="text-align: center">
 
 ![](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
 
