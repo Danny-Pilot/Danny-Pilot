@@ -1,6 +1,10 @@
 # Hi there. I'm 
 
+<p align="center">
+
 [![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video-_2_.gif)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
+
+</p>
 
 ![](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
 
