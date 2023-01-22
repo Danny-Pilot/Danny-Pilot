@@ -1,17 +1,10 @@
-
-<div style="text-align: center">
-
 # Hi there. I'm 
-
-</div>
 
 [![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 
-<div style="text-align: center">
 
-![](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
+![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
 
-</div>
 
 ## I'm QA Engeneer (manual+auto)
 ### About me :sunglasses:
@@ -56,7 +49,8 @@
 ![ТехникиТестДизаина](https://img.shields.io/badge/-Техники_Тест_Дизаина-000010?style=for-the-badge&logo)
 ![Интеграционное](https://img.shields.io/badge/-Интеграционное_тестирование-000010?style=for-the-badge&logo)
 ![Rest](https://img.shields.io/badge/-Rest-000010?style=for-the-badge&logo)
-![JSON_API](https://img.shields.io/badge/-JSON_API-000010?style=for-the-badge&logo)
+![JSON_API](https://img.shields.io/badge/-XML-000010?style=for-the-badge&logo)
+![XML](https://img.shields.io/badge/-JSON_API-000010?style=for-the-badge&logo)
 [![Agile](https://img.shields.io/badge/-Agile-000010?style=for-the-badge&logo=Agile)](https://agilemanifesto.org/)
 
 ## Follow Me
