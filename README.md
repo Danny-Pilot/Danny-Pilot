@@ -14,7 +14,6 @@
 - Умею пилотировать самолёт; :airplane:
 - Обожаю музыку, кино и Stand UP; :musical_note:
 - Занимаюсь боксом с тренером;
-- Пишу статьи на Habr;
 - За 2022 прочитал 18 книг;
 - Собираю кубик Рубика за 1 минуту;
 - Катаю на горных лыжах . :skier:
@@ -39,7 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 
-
  ### Skils
 ![Обучаесоть](https://img.shields.io/badge/-Обучаемость-000010?style=for-the-badge&logo)
 ![РаботавКоманде](https://img.shields.io/badge/-Работа_в_команде-000010?style=for-the-badge&logo)
@@ -58,4 +56,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000010?style=for-the-badge&logo=instagram)](https://instagram.com/nv_danya)
 [![Habr](https://img.shields.io/badge/-Habr-000010?style=for-the-badge&logo=habr)](https://habr.com/ru/users/nv_danya/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-pilot&theme=dark&show_icons=true)
